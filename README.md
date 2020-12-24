@@ -1,0 +1,2 @@
+# Data-Structure
+Huffman coding can greatly improve the channel utilization, shorten the information transmission time and reduce the transmission cost. However, this requires that the transmitted data be preceded by a coding system at the transmitter, and the transmitted data is decoded (recovered) at the receiving end. For a duplex channel (i.e. a channel that can transmit information in both directions), a complete coding / decoding system is required at each end. Try to write a Huffman encoding / decoding system for such a transceiver.
